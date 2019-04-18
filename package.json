@@ -1,0 +1,10 @@
+{
+  "name": "x-adapter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "u-x-i",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.1.3"
+  }
+}
